@@ -1,7 +1,7 @@
 # events
 📣 HUI-AD Events!
 
-* Wednesday, Oct. 30, 2020 - 🦄 We’ve got a special last minute addition to our schedule of events.
+* Sunday, Nov. 1, 2020 - 🦄 We’ve got a special last minute addition to our schedule of events.
   - Two talks on Sunday. One is a preview of @jason_axelson’s Code BEAM BR talk on a visualizing Elixir recompilation. 
   - The other is @sthapa’s talk on Probabilistic Data Structures. 
   - Time chosen to accommodate folks across US time zones. This are going to be some really amazing technical talks, and a great way to learn about some interesting topics.
