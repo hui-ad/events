@@ -13,7 +13,7 @@
   - Also, Tony Gaskell will be talking about an output plugin he wrote for Telegraf (a Golang “open source server agent to help you collect metrics from your stacks, sensors and systems”).
 * Saturday, Oct. 24, 2020 - Project Winter, Social Gaming Event
   - 1-3pm, via Zoom
-* Sunday, Oct. 4, 2020 - Project Winte,r Social Gaming Event
+* Sunday, Oct. 4, 2020 - Project Winter, Social Gaming Event
   - 2-4pm, via Zoom
 * Wednesday, Sep. 30, 2020 - Electron app demo by Aaron Fujimoto
   - Aaron demos the cool app he distributes to customers to do network monitoring.
