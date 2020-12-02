@@ -1,6 +1,8 @@
 # events
 📣 HUI-AD Events!
 
+* Sunday, Nov. 8, 2020 - Among Us, Social Gaming Event
+  - Tony Gaskell leads us through many different ways to play Among Us.
 * Sunday, Nov. 1, 2020 - 🦄 We’ve got a special last minute addition to our schedule of events.
   - Two talks on Sunday. One is a preview of @jason_axelson’s Code BEAM BR talk on a visualizing Elixir recompilation. 
   - The other is @sthapa’s talk on Probabilistic Data Structures. 
