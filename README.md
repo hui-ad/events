@@ -1,5 +1,28 @@
-# events
-📣 HUI-AD Events!
+## 📣 HUI-AD Events!
+
+Next Up: **Friday, Dec 17, 6:30pm HST**
+
+# [Max Goodhart](https://twitter.com/chromakode) presents, "Transforming Live Video with Web Tech"
+What you'll get out of this:
+- The core concepts of working with live video streaming
+- How Electron and GStreamer can be used to create live video pipelines
+- Be inspired to explore web tools in working with video
+
+All welcome! Join us on [Spatial Chat](https://spatial.chat/s/hui-ad) https://spatial.chat/s/hui-ad (spatial audio and video chat)
+
+## Description:
+
+Live video has always intimidated me by its complexity and resource constraints, so I'd not explored it much until this year.
+
+Brief context of [woke.net](http://woke.net) and police brutality protests
+
+I was inspired by this to start building tools to solve the problems of scale woke has. Gradually building up to the current [woke.net](http://woke.net): a self-hosted live video website with our own independent infrastructure creating the video, serving the video, and hosting chat.
+
+In the process I learned a lot of things about how to work with live video as a medium, which made it a lot less opaque. I come from a web dev / JS background, and was surprised to discover how useful and applicable frontend dev is to creating video experiences, and how hosting live video isn't very different from other web tech.
+
+🏁🏁🏁🏁
+
+## Hey, check out some of our past events
 
 * Sunday, Nov. 8, 2020 - Among Us, Social Gaming Event
   - Tony Gaskell leads us through many different ways to play Among Us.
