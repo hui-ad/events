@@ -1,6 +1,8 @@
 ## 📣 HUI-AD Events!
 
-Next Up: **Friday, Dec 17, 6:30pm HST**
+<<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<<>>>>>>><<<<<<>>>>>>
+
+## Next Up: Friday, Dec 17, 6:30pm HST (9:30pm PST)
 
 # [Max Goodhart](https://twitter.com/chromakode) presents, "Transforming Live Video with Web Tech"
 What you'll get out of this:
@@ -19,6 +21,8 @@ Brief context of [woke.net](http://woke.net) and police brutality protests
 I was inspired by this to start building tools to solve the problems of scale woke has. Gradually building up to the current [woke.net](http://woke.net): a self-hosted live video website with our own independent infrastructure creating the video, serving the video, and hosting chat.
 
 In the process I learned a lot of things about how to work with live video as a medium, which made it a lot less opaque. I come from a web dev / JS background, and was surprised to discover how useful and applicable frontend dev is to creating video experiences, and how hosting live video isn't very different from other web tech.
+
+<<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<<>>>>>>><<<<<<>>>>>>
 
 🏁🏁🏁🏁
 
