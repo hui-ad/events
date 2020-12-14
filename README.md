@@ -1,6 +1,6 @@
 ## 📣 HUI-AD Events!
 
-<<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<<>>>>>>><<<<<<>>>>>>
+<<<<<<>>>>>><<<<<<>>>>>>
 
 ## Next Up: Friday, Dec 18, 6:30pm HST (9:30pm PST)
 
@@ -22,7 +22,7 @@ I was inspired by this to start building tools to solve the problems of scale wo
 
 In the process I learned a lot of things about how to work with live video as a medium, which made it a lot less opaque. I come from a web dev / JS background, and was surprised to discover how useful and applicable frontend dev is to creating video experiences, and how hosting live video isn't very different from other web tech.
 
-<<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<>>>>>><<<<<<<>>>>>>><<<<<<>>>>>>
+<<<<<<>>>>>><<<<<<>>>>>>
 
 🏁🏁🏁🏁
 
@@ -31,11 +31,9 @@ In the process I learned a lot of things about how to work with live video as a 
 * Sunday, Nov. 8, 2020 - Among Us, Social Gaming Event
   - Tony Gaskell leads us through many different ways to play Among Us.
 * Sunday, Nov. 1, 2020 - 🦄 We’ve got a special last minute addition to our schedule of events.
-  - Two talks on Sunday. One is a preview of @jason_axelson’s Code BEAM BR talk on a visualizing Elixir recompilation. 
-  - The other is @sthapa’s talk on Probabilistic Data Structures. 
-  - Time chosen to accommodate folks across US time zones. This are going to be some really amazing technical talks, and a great way to learn about some interesting topics.
-  - We have Jason Axelson giving a preview of his up-coming Code BEAM talk on a visual tool to understand Elixir recompilation.
-  - Also, we have Suchandra Thapa giving a talk titled, “Getting Faster and Smaller By Being Wrong.” Suchandra will discuss probabilistic data structures and how they can improve speeds and memory usage by being (slightly) wrong. These are two exciting talks which we’re squeezing in this weekend to accommodate a tight schedule for the speakers. But, the good news is that it’s at a convenient time for folks in the lower 48 as well.
+  - Two talks on Sunday. Time chosen to accommodate folks across US time zones. This are going to be some really amazing technical talks, and a great way to learn about some interesting topics.
+  - We have Jason Axelson ([@bostonvaulter](https://twitter.com/bostonvaulter)) giving a preview of his up-coming Code BEAM BR talk on a visual tool to understand Elixir recompilation.
+  - Also, we have Suchandra Thapa ([@lostinthegrid](https://twitter.com/lostinthegrid)) giving a talk titled, “Getting Faster and Smaller By Being Wrong.” Suchandra will discuss probabilistic data structures and how they can improve speeds and memory usage by being (slightly) wrong. These are two exciting talks which we’re squeezing in this weekend to accommodate a tight schedule for the speakers. But, the good news is that it’s at a convenient time for folks in the lower 48 as well.
   - 3-5pm, via Zoom
 * Monday, Oct. 26, 2020 - 💥 Elixir/Ecto and Telegraf/Golang/InfluxDB talks coming up with Will Reppun and Tony Gaskell
   - Will Reppun will be giving us the details of his new Elixir/Ecto project, creating a changelog for individual DB records.
