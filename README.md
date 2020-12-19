@@ -2,7 +2,7 @@
 
 <<<<<<>>>>>><<<<<<>>>>>>
 
-## Next Up: Friday, Dec 18, 6:30pm HST (9:30pm PST)
+## Next Up: Friday, Dec 18, 6:30pm HST (8:30pm PST)
 
 # [Max Goodhart](https://twitter.com/chromakode) presents, "Transforming Live Video with Web Tech"
 What you'll get out of this:
