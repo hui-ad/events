@@ -56,7 +56,7 @@ In the process I learned a lot of things about how to work with live video as a 
 * Monday, Jun. 22, 2020 - Peanut Gallery: Watching WWDC Together
   - The Keynote starts at 7am HST on Monday, 6/22 in the Reality Distortion Field.
 * Friday, Jun. 5, 2020 - Video Jam: Using every group video chat platform
-  - We test out every video chat platform we can think of: https://spatial.chat, https://thonline.town, https://jitsi.org
+  - We test out every video chat platform we can think of: https://spatial.chat, https://theonline.town, https://jitsi.org
   - And related, https://krispi.ai
   - 6pm, via Zoom
 * Sunday, May 17, 2020 - Deno intro by Kevin McCarthy, Serverless Video Transcoding by Chris Lee
